@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nome": "System",
+      "tipo": 1,
+      "email": "system@ifc.com.br",
+      "senha": "123"
+    },
+    {
+      "nome": "Administrador",
+      "tipo": 2,
+      "email": "administrador@ifc.com.br",
+      "senha": "456",
+      "id": "KXjnWRySRu8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

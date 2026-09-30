@@ -1,0 +1,26 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+}
+.resultado{
+    width: 100%;
+    height: 100%;
+    gap: 2%;
+    display: flex;
+    flex-direction: row;
+}
+span{
+    display: flex;
+    flex-direction: row;
+}
+.bloco{
+        background-color: red;
+        border-radius: 4px;
+        padding: 10px;
+        color: aliceblue;
+
+}
